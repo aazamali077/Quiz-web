@@ -17,14 +17,6 @@ The project consists of the following files:
 2. **style.css** – Handles the styling of the quiz layout and buttons.
 3. **quiz.js** – The JavaScript file responsible for quiz functionality, including question loading, answer checking, and score calculation.
 
-## 📂 Files
-
-- index.html
-
-- style.css
-
-- myScript.js
-
 ## 🚀 How to Use
 
 - Clone or download the repository.
