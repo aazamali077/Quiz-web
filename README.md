@@ -19,11 +19,11 @@ The project consists of the following files:
 
 ## 📂 Files
 
-- 1. index.html
+- index.html
 
-- 2. style.css
+- style.css
 
-- 3. myScript.js
+- myScript.js
 
 ## 🚀 How to Use
 
